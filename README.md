@@ -42,7 +42,7 @@ An indexer (in the Ethereum context) takes data directly from the blockchain and
 
 Publications using or mentioning Reth.
 
- - [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), ([Tweet](https://x.com/gakonst/status/1787802487753154862))
+ - [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yale, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
 
 ## Layer 2 ##
 
