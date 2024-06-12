@@ -9,7 +9,7 @@
 
 ## Audits ##
 
- - [Sigma Prime](https://x.com/gakonst/status/1726711059715920250)
+ - [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf)
 
 ## Development Tools ##
 
