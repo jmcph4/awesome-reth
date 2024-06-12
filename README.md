@@ -44,6 +44,8 @@ Publications using or mentioning Reth.
 
  - [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yang, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
 
+- [Diving into the Reth p2p stack](https://research.chainbound.io/diving-into-the-reth-p2p-stack), a blog post by [Chainbound](https://chainbound.io) that details the Reth P2P stack.
+
 ## Layer 2 ##
 
  - [sp1-reth](https://github.com/succinctlabs/sp1-reth), a zkEVM PoC by [Succint Labs](https://succinct.xyz) demonstrating transaction costs to the order of $0.01 USD atop Reth
