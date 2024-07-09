@@ -24,6 +24,7 @@ An [Execution Extension (Exex)](https://www.paradigm.xyz/2024/05/reth-exex) is c
  - [flare](https://github.com/rauljordan/flare), an Exex that indexes [Arbitrum](https://arbitrum.io) sequencer batches ([Tweet](https://mobile.x.com/rauljordaneth/status/1787252292250485231))
  - [hyperlane-exex](https://github.com/aroralanuk/hyperlane-exex), a PoC [Hyperlane](https://www.hyperlane.xyz) validator built as an ExEx ([Tweet](https://x.com/aroralanuk/status/1787203558955233562))
  - [wvm-reth](https://github.com/weaveVM/wvm-reth), a BigQuery ExEx ([blog post](https://docs.wvm.dev/about-weavevm/weavevm-testnet-v0))
+ - [reth-exex-walltime](https://github.com/transmissions11/reth-exex-walltime), an Exex that provides compares block time (proposer clock) with wall time (local clock)
 
 ## Crawlers ##
 
