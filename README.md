@@ -18,7 +18,7 @@
 
 ## Execution Extensions (ExExes) ##
 
-An [Execution Extension (Exex)](https://www.paradigm.xyz/2024/05/reth-exex) is code that runs in-process with Reth that has access to *reorg-aware* chain state.
+An [Execution Extension (Exex)](https://www.paradigm.xyz/2024/05/reth-exex) is code that runs in-process with Reth that has access to *reorg-aware* chain state. Consult [the official documentation](https://reth.rs/developers/exex/exex.html) for more details.
 
  - [shadow-reth](https://github.com/shadow-hq/shadow-reth), an implementation of the [Shadow RPC](https://docs.shadow.xyz/product-guide/shadow-rpc) as an Exex ([blog post](https://blog.shadow.xyz/shadow-reth))
  - [flare](https://github.com/rauljordan/flare), an Exex that indexes [Arbitrum](https://arbitrum.io) sequencer batches ([Tweet](https://mobile.x.com/rauljordaneth/status/1787252292250485231))
