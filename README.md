@@ -18,13 +18,13 @@
 
 ## Execution Extensions (ExExes) ##
 
-An [Execution Extension (Exex)](https://www.paradigm.xyz/2024/05/reth-exex) is code that runs in-process with Reth that has access to *reorg-aware* chain state. Consult [the official documentation](https://reth.rs/developers/exex/exex.html) for more details.
+An [Execution Extension (ExEx)](https://www.paradigm.xyz/2024/05/reth-exex) is code that runs in-process with Reth that has access to *reorg-aware* chain state. Consult [the official documentation](https://reth.rs/developers/exex/exex.html) for more details.
 
- - [shadow-reth](https://github.com/shadow-hq/shadow-reth), an implementation of the [Shadow RPC](https://docs.shadow.xyz/product-guide/shadow-rpc) as an Exex ([blog post](https://blog.shadow.xyz/shadow-reth))
- - [flare](https://github.com/rauljordan/flare), an Exex that indexes [Arbitrum](https://arbitrum.io) sequencer batches ([Tweet](https://mobile.x.com/rauljordaneth/status/1787252292250485231))
+ - [shadow-reth](https://github.com/shadow-hq/shadow-reth), an implementation of the [Shadow RPC](https://docs.shadow.xyz/product-guide/shadow-rpc) as an ExEx ([blog post](https://blog.shadow.xyz/shadow-reth))
+ - [flare](https://github.com/rauljordan/flare), an ExEx that indexes [Arbitrum](https://arbitrum.io) sequencer batches ([Tweet](https://mobile.x.com/rauljordaneth/status/1787252292250485231))
  - [hyperlane-exex](https://github.com/aroralanuk/hyperlane-exex), a PoC [Hyperlane](https://www.hyperlane.xyz) validator built as an ExEx ([Tweet](https://x.com/aroralanuk/status/1787203558955233562))
  - [wvm-reth](https://github.com/weaveVM/wvm-reth), a BigQuery ExEx ([blog post](https://docs.wvm.dev/about-weavevm/weavevm-testnet-v0))
- - [reth-exex-walltime](https://github.com/transmissions11/reth-exex-walltime), an Exex that provides compares block time (proposer clock) with wall time (local clock)
+ - [reth-exex-walltime](https://github.com/transmissions11/reth-exex-walltime), an ExEx that provides compares block time (proposer clock) with wall time (local clock)
  - [loom-exex](https://github.com/dexloom/loom/tree/main/bin/loom_exex), an ExEx for backrunning (part of the larger [loom](https://github.com/dexloom/loom) project)
 
 ## Crawlers ##
