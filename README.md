@@ -60,6 +60,10 @@ Publications using or mentioning Reth.
  - [reth-custom-api-example](https://github.com/libevm/reth-custom-api-example), an example demonstrating RPC extension using Reth due to [libevm](https://libevm.com) ([blog post](https://www.libevm.com/2023/09/01/reth-custom-api))
     - This also became a talk during the hackathon at [ETHGlobal Sydney 2024](https://ethglobal.com/events/sydney)
 
+## Presentations ##
+
+ - [RETH ExExs](https://docs.google.com/presentation/d/10VpdnTNKbhtip22UIAGNKchpPSi1E7ykI6Fb91d7jfg), presentation by [Roman Krasiuk](https://x.com/r_krasiuk) and [Yash Atreya](https://x.com/YashAtreya) at [EthCC 2024](https://x.com/wehack247), [Tweet 1](https://x.com/gakonst/status/1811443416674501061) [Tweet 2](https://x.com/YashAtreya/status/1811400954408833363)
+
 ## Miscellaneous ##
 
  - [reth-payload-validator](https://github.com/ultrasoundmoney/reth-payload-validator), a RPC extension of Reth by the [Ultra Sound Money relay](https://ultrasound.money) that implements rapid block validation of builder submissions
