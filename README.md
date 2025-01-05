@@ -56,6 +56,7 @@ Publications using or mentioning Reth.
  - [scroll-reth](https://x.com/gakonst/status/1788548434393210938), a port of Scroll to Reth
  - [pevm](https://github.com/risechain/pevm), a massively-parallelised EVM implementation by [RISE Labs](https://www.riselabs.xyz) that is explicitly compatible with Reth ([blog post](https://medium.com/@rise_chain/rise-pevm-parallel-evm-bdfc4bc9f38e), [Tweet](https://x.com/gakonst/status/1798165192460976195))
  - [Kakarot zkEVM](https://github.com/kkrt-labs/kakarot-rpc), a zkEVM built in Cairo (provable by design) for which the RPC component is constructed using Reth
+ - [rem-poc](https://github.com/adizere/rem-poc), an integration with the [Malachite](https://github.com/informalsystems/malachite) BFT consensus engine
 
 ## Tutorials ##
 
