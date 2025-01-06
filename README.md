@@ -16,6 +16,10 @@
  - [Reth Alphanet](https://github.com/paradigmxyz/alphanet), OP-Stack compatible testnet rollup explicitly designed for Ethereum R&D ([blog post](https://www.paradigm.xyz/2024/04/reth-alphanet), [Tweet](https://x.com/gakonst/status/1779892069169008709))
  - [ethers-reth](https://github.com/SorellaLabs/ethers-reth), an [Ethers-rs](https://ethers.rs)-aware middleware by [Sorella Labs](https://github.com/SorellaLabs) for accessing Reth state directly ([Tweet](https://x.com/0xvanbeethoven/status/1668434735281090560))
 
+## RPC Extensions ##
+
+ - [reth-private-transaction](https://github.com/Quertyy/reth-private-transaction), `eth_sendPrivateRawTransaction` implementation that punches straight through to the top three block builders
+
 ## Execution Extensions (ExExes) ##
 
 An [Execution Extension (ExEx)](https://www.paradigm.xyz/2024/05/reth-exex) is code that runs in-process with Reth that has access to *reorg-aware* chain state. Consult [the official documentation](https://reth.rs/developers/exex/exex.html) for more details.
