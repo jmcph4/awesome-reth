@@ -16,8 +16,10 @@
  - [Reth Alphanet](https://github.com/paradigmxyz/alphanet), OP-Stack compatible testnet rollup explicitly designed for Ethereum R&D ([blog post](https://www.paradigm.xyz/2024/04/reth-alphanet), [Tweet](https://x.com/gakonst/status/1779892069169008709))
  - [ethers-reth](https://github.com/SorellaLabs/ethers-reth), an [Ethers-rs](https://ethers.rs)-aware middleware by [Sorella Labs](https://github.com/SorellaLabs) for accessing Reth state directly ([Tweet](https://x.com/0xvanbeethoven/status/1668434735281090560))
 
-## RPC Extensions ##
+## MEV ##
 
+ - [rethdb-dexsync](https://github.com/cakevm/rethdb-dexsync), retrieve CFMM pool state directly from Reth's database
+ - [NodeDB](https://github.com/Zacholme7/NodeDB), updates [revm](https://github.com/bluealloy/revm)'s database directly from Reth's database
  - [reth-private-transaction](https://github.com/Quertyy/reth-private-transaction), `eth_sendPrivateRawTransaction` implementation that punches straight through to the top three block builders
 
 ## Execution Extensions (ExExes) ##
@@ -32,6 +34,9 @@ An [Execution Extension (ExEx)](https://www.paradigm.xyz/2024/05/reth-exex) is c
  - [wvm-reth](https://github.com/weaveVM/wvm-reth), a BigQuery ExEx ([blog post](https://docs.wvm.dev/about-weavevm/weavevm-testnet-v0))
  - [reth-exex-walltime](https://github.com/transmissions11/reth-exex-walltime), an ExEx that provides compares block time (proposer clock) with wall time (local clock)
  - [loom-exex](https://github.com/dexloom/loom/tree/main/bin/loom_exex), an ExEx for backrunning (part of the larger [loom](https://github.com/dexloom/loom) project)
+ - [exex-templates](https://github.com/weaveVM/exex-templates), ExExes from the WeaveVM team
+ - [exex-indexer](https://github.com/gibz104/exex-indexer), an ExEx providing blockchain indexing 
+ - [reth-exex-plugin](https://github.com/0xurb/reth-exex-plugin), an ExEx facilitating dynamic code injection via shared libraries
 
 ## Crawlers ##
 
@@ -61,6 +66,8 @@ Publications using or mentioning Reth.
  - [pevm](https://github.com/risechain/pevm), a massively-parallelised EVM implementation by [RISE Labs](https://www.riselabs.xyz) that is explicitly compatible with Reth ([blog post](https://medium.com/@rise_chain/rise-pevm-parallel-evm-bdfc4bc9f38e), [Tweet](https://x.com/gakonst/status/1798165192460976195))
  - [Kakarot zkEVM](https://github.com/kkrt-labs/kakarot-rpc), a zkEVM built in Cairo (provable by design) for which the RPC component is constructed using Reth
  - [rem-poc](https://github.com/adizere/rem-poc), an integration with the [Malachite](https://github.com/informalsystems/malachite) BFT consensus engine
+ - [grevm](https://github.com/Galxe/grevm), parallel EVM runtime based on BlockSTM
+ - [reva](https://github.com/lita-xyz/reva), minimal ZKP execution in Reth
 
 ## Tutorials ##
 
@@ -79,4 +86,5 @@ Publications using or mentioning Reth.
 ## Miscellaneous ##
 
  - [reth-payload-validator](https://github.com/ultrasoundmoney/reth-payload-validator), a RPC extension of Reth by the [Ultra Sound Money relay](https://ultrasound.money) that implements rapid block validation of builder submissions
+ - [openvm-reth-benchmark](https://github.com/axiom-crypto/openvm-reth-benchmark), a set of benchmarks for Reth within the OpenVM framework
 
