@@ -19,6 +19,7 @@
 ## MEV ##
 
  - [rethdb-dexsync](https://github.com/cakevm/rethdb-dexsync), retrieve CFMM pool state directly from Reth's database
+ - [alloy-reth-provider](https://github.com/cakevm/alloy-reth-provider), retrieve state from a remote node via Alloy
  - [NodeDB](https://github.com/Zacholme7/NodeDB), updates [revm](https://github.com/bluealloy/revm)'s database directly from Reth's database
  - [reth-private-transaction](https://github.com/Quertyy/reth-private-transaction), `eth_sendPrivateRawTransaction` implementation that punches straight through to the top three block builders
 
