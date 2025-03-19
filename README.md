@@ -36,7 +36,7 @@ An [Execution Extension (ExEx)](https://www.paradigm.xyz/2024/05/reth-exex) is c
  - [wvm-reth](https://github.com/weaveVM/wvm-reth), a BigQuery ExEx ([blog post](https://docs.wvm.dev/about-weavevm/weavevm-testnet-v0))
  - [reth-exex-walltime](https://github.com/transmissions11/reth-exex-walltime), an ExEx that provides compares block time (proposer clock) with wall time (local clock)
  - [loom-exex](https://github.com/dexloom/loom/tree/main/bin/loom_exex), an ExEx for backrunning (part of the larger [loom](https://github.com/dexloom/loom) project)
- - [exex-templates](https://github.com/weaveVM/exex-templates), ExExes from the WeaveVM team
+ - [exex-templates](https://github.com/weaveVM/exex-templates), ExExes from the Load Network team
  - [exex-indexer](https://github.com/gibz104/exex-indexer), an ExEx providing blockchain indexing 
  - [reth-exex-plugin](https://github.com/0xurb/reth-exex-plugin), an ExEx facilitating dynamic code injection via shared libraries
 
