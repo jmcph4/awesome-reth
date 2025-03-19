@@ -27,7 +27,7 @@
 
 An [Execution Extension (ExEx)](https://www.paradigm.xyz/2024/05/reth-exex) is code that runs in-process with Reth that has access to *reorg-aware* chain state. Consult [the official documentation](https://reth.rs/developers/exex/exex.html) for more details.
 
- - [exex.rs](https://www.exex.rs), an open-source directory of ExExes
+ - [exex.rs](https://www.exex.rs), an open-source directory of ExExes ([blog post](https://blog.load.network/exex-rs-announcement/))
  - [exex-nursery](https://github.com/jmcph4/exex-nursery), a collection of ExExes that do interesting things
  - [reth-exex-examples](https://github.com/paradigmxyz/reth-exex-examples), an official repository of example ExEx implementations
  - [shadow-reth](https://github.com/shadow-hq/shadow-reth), an implementation of the [Shadow RPC](https://docs.shadow.xyz/product-guide/shadow-rpc) as an ExEx ([blog post](https://blog.shadow.xyz/shadow-reth))
@@ -36,7 +36,7 @@ An [Execution Extension (ExEx)](https://www.paradigm.xyz/2024/05/reth-exex) is c
  - [wvm-reth](https://github.com/weaveVM/wvm-reth), a BigQuery ExEx ([blog post](https://docs.wvm.dev/about-weavevm/weavevm-testnet-v0))
  - [reth-exex-walltime](https://github.com/transmissions11/reth-exex-walltime), an ExEx that provides compares block time (proposer clock) with wall time (local clock)
  - [loom-exex](https://github.com/dexloom/loom/tree/main/bin/loom_exex), an ExEx for backrunning (part of the larger [loom](https://github.com/dexloom/loom) project)
- - [exex-templates](https://github.com/weaveVM/exex-templates), ExExes from the WeaveVM team
+ - [exex-templates](https://github.com/weaveVM/exex-templates), ExExes from the Load Network team
  - [exex-indexer](https://github.com/gibz104/exex-indexer), an ExEx providing blockchain indexing 
  - [reth-exex-plugin](https://github.com/0xurb/reth-exex-plugin), an ExEx facilitating dynamic code injection via shared libraries
 
