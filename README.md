@@ -71,6 +71,7 @@ Publications using or mentioning Reth.
  - [grevm](https://github.com/Galxe/grevm), parallel EVM runtime based on BlockSTM
  - [reva](https://github.com/lita-xyz/reva), minimal ZKP execution in Reth
  - [seismic-reth](https://github.com/SeismicSystems/seismic-reth), node software for [Seismic](https://www.seismic.systems), the encrypted blockchain
+ - [sova-reth](https://github.com/SovaNetwork/sova-reth), Reth but for Bitcoin
 
 ## Tutorials ##
 
